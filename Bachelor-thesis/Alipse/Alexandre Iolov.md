@@ -9,5 +9,6 @@
 >Good luck.
 \- Alexandre Iolov, 2023
 
+[Email link](https://mail.google.com/mail/u/1/#search/student/QgrcJHsTgsNgzcGHKQmGLgSPTTJhhzGPTqL) for the email quoted above
 [Linkedin](https://dk.linkedin.com/in/alexandre-iolov-281185108)
 [Research](https://www.researchgate.net/scientific-contributions/Alexandre-Iolov-2047211050) while affiliated with University of Ottawa and other places

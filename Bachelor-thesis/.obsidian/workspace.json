@@ -31,10 +31,14 @@
             "id": "b4b7e238d33c1ee3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Alipse/Alexandre Iolov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alexandre Iolov"
             }
           }
         ]
