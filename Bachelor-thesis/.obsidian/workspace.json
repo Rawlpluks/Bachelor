@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "95a072fdb445635f",
+    "type": "split",
+    "children": [
+      {
+        "id": "145bc38ea72b783c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e24f3ecd00c143d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datøk/Computer science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer science"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae7d7e08a71217cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b7e238d33c1ee3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10a8efb0bd2e06ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "03b3d7a9dede8d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005babae75cf5699",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b56e46a72b8e33a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "daed70d13c9cc5a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38ead10d6174b0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f62e8463c5ef5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc34d7bbc0e1785e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fccec88c9d1e2afe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c7425ee418c748aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a379bb2e7a535f4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4b7e238d33c1ee3",
+  "lastOpenFiles": [
+    "Datøk/KU.md",
+    "Main.md",
+    "Alipse/Quantitative investing.md",
+    "Datøk/Read up/Maching learning in Finance.md",
+    "Datøk/Read up/Financial Economics.md",
+    "Alipse/Alexandre Iolov.md",
+    "Alipse/Alipse.md",
+    "Alipse/Algo-trading.md",
+    "Alipse",
+    "Datøk/Computer science.md",
+    "Datøk/Econometrics.md",
+    "Datøk/Read up/Developing Research Questions.md",
+    "Datøk/Read up/Trading.md",
+    "Overview/General Structure.md",
+    "Datøk/Read up",
+    "Datøk/Read up/Rick Management in AI Models.md",
+    "Datøk/Read up/Algorithmic Trading.md",
+    "Datøk/Read up/Data Science and AI Ethics.md",
+    "Overview/Abstract.md",
+    "Overview/Title page.md",
+    "Datøk",
+    "Overview/Conclusion.md",
+    "Overview",
+    "Overview/Appendices.md",
+    "Overview/Bibliography & References.md",
+    "Overview/Results & Discussion.md",
+    "Overview/Methodology.md",
+    "Overview/Literature review.md",
+    "Overview/Introduction.md",
+    "Bibliography"
+  ]
+}
