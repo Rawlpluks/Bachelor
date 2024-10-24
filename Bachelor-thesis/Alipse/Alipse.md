@@ -1,3 +1,4 @@
+#Prospects 
 [Website](https://www.alipes.dk/)
 
 Contacts:
@@ -16,3 +17,6 @@ The algorithm spots patterns in vast datasets that may be invisible to human inv
 Cutting edge of finance
 - Big data
 - Machine learning
+
+Software team works in [[CSharp]] 
+Quant team work in [[Python]] and [[C++]] 

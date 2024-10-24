@@ -13,18 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datøk/Computer science.md",
+                "file": "Ideas/5/Underfitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer science"
+              "title": "Underfitting"
             }
           }
         ]
       },
       {
-        "id": "ae7d7e08a71217cd",
+        "id": "9ef1d94217a25f14",
         "type": "tabs",
         "children": [
           {
@@ -176,35 +176,41 @@
   },
   "active": "b4b7e238d33c1ee3",
   "lastOpenFiles": [
-    "Datøk/KU.md",
-    "Main.md",
-    "Alipse/Quantitative investing.md",
-    "Datøk/Read up/Maching learning in Finance.md",
-    "Datøk/Read up/Financial Economics.md",
-    "Alipse/Alexandre Iolov.md",
     "Alipse/Alipse.md",
-    "Alipse/Algo-trading.md",
-    "Alipse",
-    "Datøk/Computer science.md",
-    "Datøk/Econometrics.md",
-    "Datøk/Read up/Developing Research Questions.md",
-    "Datøk/Read up/Trading.md",
-    "Overview/General Structure.md",
-    "Datøk/Read up",
-    "Datøk/Read up/Rick Management in AI Models.md",
-    "Datøk/Read up/Algorithmic Trading.md",
-    "Datøk/Read up/Data Science and AI Ethics.md",
+    "C++.md",
+    "Python.md",
+    "CSharp.md",
+    "Alipse/Alexandre Iolov.md",
+    "Main.md",
+    "Ideas/5/Underfitting.md",
     "Overview/Abstract.md",
-    "Overview/Title page.md",
-    "Datøk",
-    "Overview/Conclusion.md",
-    "Overview",
     "Overview/Appendices.md",
     "Overview/Bibliography & References.md",
-    "Overview/Results & Discussion.md",
-    "Overview/Methodology.md",
-    "Overview/Literature review.md",
+    "Overview/Conclusion.md",
+    "Overview/Developing Research Questions.md",
+    "Overview/General Structure.md",
     "Overview/Introduction.md",
-    "Bibliography"
+    "Overview/Literature review.md",
+    "Overview/Methodology.md",
+    "Overview/Results & Discussion.md",
+    "Overview/Table of contents.md",
+    "Overview/Title page.md",
+    "Ideas/5/Impact of Data Quality on ML.md",
+    "Ideas/5/Overfitting.md",
+    "Ideas/5/Alternative Data.md",
+    "Ideas/5/Data Preprocessing Techniques.md",
+    "Ideas/4/Volatility Forecasting Models.md",
+    "Ideas/4/Sentiment analysis in finance.md",
+    "Ideas/4/Financial Time Series Analysis.md",
+    "Ideas/5",
+    "Ideas/4",
+    "Ideas/3",
+    "Ideas/2",
+    "Ideas/1",
+    "Ideas",
+    "Alipse",
+    "Datøk/Read up",
+    "Datøk",
+    "Overview"
   ]
 }

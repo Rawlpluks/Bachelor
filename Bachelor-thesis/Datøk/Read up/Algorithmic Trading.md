@@ -1,1 +1,2 @@
-Learn about algorithmic strategies, including high-frequency [[Trading]] and how machine learning is shaping this space
+#Econometrics #CS #Literatur 
+Learn about algorithmic strategies, including [[High-frequency trading]] and how machine learning is shaping this space

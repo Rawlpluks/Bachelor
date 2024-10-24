@@ -1,3 +1,4 @@
+#CS 
 Half of the bachelor at [[KU]]
 
 | Relecant courses completed:                                                                          |               |
