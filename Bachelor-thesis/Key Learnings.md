@@ -1,0 +1,6 @@
+- The measure-theoretic development is a standablone original contribution not present in the [[ReSurv]] paper. It addresses the novelty question and the cand.act admission gap simultaneously
+- The chain-ladder-product-integral connection should be framed as a remark to make previse, not a proven equivalence 
+- The $\eta=1/2$ parameter, the [[Efron tie correction]] and equations (2), (5), and (9) of the [[ReSurv]] paper are key technical specifics already examined
+- The thesis's critical path should not depend on GDPR approval - theory and simulation work can proceed in parallel
+- When drafting lagel/compliance correspondence: anchor to GDPR Recital 26's "reasonably likely" standard rather than overclaiming absolute anonymisation. Keep internal caveats (e.g. methodological costs of coarsening) separate from external-facing text
+- Framing the project as internal ERGO analysis rather than an external academic data request is the strategically correct positioning with legal

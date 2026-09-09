@@ -1,16 +1,18 @@
-#Main #Structure #Econometrics #CS #Prospects #Idea
-### [[General Structure]]
+#Main
 
-### [[Developing Research Questions]]
+ Based [[General Structure]] on "Den god opgave  håndbog i opgave-, projekt-, og specialeskrivning", 6th edition, (Rienecker, Jørgensen), Samfunds Litteratur, 2022.
 
-### Focus areas 
-[[Computer science]] & [[Econometrics]]
-### Potential cooperation
-[[Alipse]]
+Administrative information such as [[Key people]] and [[Data agreement]] has been worked out in compliance with both [[KU]] and [[ERGO]]
 
-### Ideas 
-- [[ML in Investment Strategies]]
-- [[Bias and Ethics in ML-Driven investments]]
-- [[Explainability of ML in Investment Decisions]]
-- [[Predicting market Volatility Using ML]]
-- [[Impact of Data Quality on ML]]
+ The thesis applies the [[ReSurv]] machine learning framework to [[ERGO]] health insurance claims data, benchmarking [[ML-based hazard models]] against traditional [[chain-ladder methods]] for IBNR reserving.
+
+A [[practitioner-oriented companion paper]] was published in CAS E-Forum in 2025.
+
+This thesis has two intertwined motications:
+- Producing original research and closing the remaning ECTS gaps required for admission to the cand.act. programme - specifically in mathematical analysis and statistics on a measure-theoretic basis.
+A well-structured [[measure-theoretic foundations]] chapter is intended to address both gaps simultaneously.
+
+An agreement for with [[ERGO]] regarding the data has been reached, and the [[contract]] has both been signed and sent off to [[KU]].
+
+A deeper explanations of the thesis [[Subject]] can be found here and [[Key Learnings]] can be found here. Additional to (Rienecker, Jørgensen, 2022) [[Core References]] was borrowed from the library of [[KU]] 
+

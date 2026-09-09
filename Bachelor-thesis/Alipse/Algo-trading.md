@@ -1,2 +1,0 @@
-#Econometrics #CS 
-[[Quantitative investing]]
